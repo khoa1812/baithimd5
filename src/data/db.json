@@ -1,0 +1,52 @@
+{
+  "books": [
+    {
+      "id": "1",
+      "code": "BO-0001",
+      "name": "Book Title 1",
+      "category": "Fiction",
+      "dateAdded": "01/01/2024",
+      "quantity": 10
+    },
+    {
+      "id": "2",
+      "code": "BO-0002",
+      "name": "Book Title 2",
+      "category": "Science",
+      "dateAdded": "02/01/2024",
+      "quantity": 5
+    },
+    {
+      "id": "3",
+      "code": "BO-0003",
+      "name": "Book Title 3",
+      "category": "Fiction",
+      "dateAdded": "03/01/2024",
+      "quantity": 15
+    },
+    {
+      "id": "4",
+      "code": "BO-0004",
+      "name": "Book Title 4",
+      "category": "Biography",
+      "dateAdded": "04/01/2024",
+      "quantity": 15
+    },
+    {
+      "id": "4",
+      "code": "BO-0005",
+      "name": "Book Title 5",
+      "category": "History",
+      "dateAdded": "05/01/2024",
+      "quantity": 5
+    },
+    {
+      "id": "dfbd",
+      "code": "BO-1168",
+      "name": "efwefwef",
+      "category": "Science",
+      "dateAdded": "2024-06-19",
+      "quantity": 22
+    }
+  ]
+}
